@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef1"
+            },
+            "Salutation": "Ms.",
+            "LastName": "Lead",
+            "Company": "zdS",
+            "Status": "Open - Not Contacted"
+        }
+    ]
+}

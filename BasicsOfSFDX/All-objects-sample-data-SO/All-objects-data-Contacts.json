@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Alekhya",
+            "LastName": "Kondabathini",
+            "MailingStreet": "1 sters",
+            "MailingCity": "CCC",
+            "MailingState": "SSSSSS",
+            "MailingPostalCode": "343",
+            "MailingCountry": "IN",
+            "AccountId": "@AccountRef2"
+        }
+    ]
+}

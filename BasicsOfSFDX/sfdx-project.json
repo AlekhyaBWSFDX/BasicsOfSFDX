@@ -2,7 +2,7 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": false
     },
     {
       "path": "unpackaged-components",
@@ -10,7 +10,7 @@
     },
     {
       "path": "unpack",
-      "default": false
+      "default": true
     }
   ],
   "name": "BasicsOfSFDX",

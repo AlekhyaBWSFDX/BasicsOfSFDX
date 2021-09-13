@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef1"
+            },
+            "Name": "DuraPlay Surfacing System - DuraPlay PIP Surfacing 50% Black/50% Color; Includes 160 sf Rollover Edg",
+            "StageName": "Id. Decision Makers",
+            "CloseDate": "2021-09-30",
+            "AccountId": "@AccountRef2"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "VS code changed field Sample Account for Entitlements"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Test Account Name in Sales wholesales",
+            "AccountNumber": "test number 45 jhgh6",
+            "BillingStreet": "1 sters",
+            "BillingCity": "CCC",
+            "BillingState": "SSSSSS",
+            "BillingPostalCode": "343",
+            "BillingCountry": "IN"
+        }
+    ]
+}
